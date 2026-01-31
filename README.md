@@ -2,8 +2,15 @@
 
 ![snake gif](https://github.com/JohnCarloSabenorio/JohnCarloSabenorio/blob/output/github-snake-dark.svg)
 
+###👋 Welcome to my GitHub
 
-# 💻 Tech Stack:
+I’m a software engineer driven by curiosity and a passion for creating meaningful solutions. I enjoy exploring new frameworks, experimenting with tools, and turning ideas into real projects—whether working independently or collaborating with others.
+
+I grow by taking initiative, applying what I learn through hands-on projects, sharing perspectives, and reflecting on each step of the journey. Every repository here represents a learning experience and a step forward in my professional growth.
+
+Feel free to explore, learn along with me, or reach out if you’d like to collaborate 🚀
+
+### 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
