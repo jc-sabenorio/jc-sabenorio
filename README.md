@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/JohnCarloSabenorio/JohnCarloSabenorio/blob/output/github-snake-dark.svg)
 
-###👋 Welcome to my GitHub
+### 💻 Welcome to my GitHub
 
 I’m a software engineer driven by curiosity and a passion for creating meaningful solutions. I enjoy exploring new frameworks, experimenting with tools, and turning ideas into real projects—whether working independently or collaborating with others.
 
