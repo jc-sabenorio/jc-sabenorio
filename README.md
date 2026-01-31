@@ -10,7 +10,8 @@ I grow by taking initiative, applying what I learn through hands-on projects, sh
 
 Feel free to explore, learn along with me, or reach out if you’d like to collaborate 🚀
 
-### 💻 Tech Stack:
+
+### 💻 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -74,6 +75,7 @@ Feel free to explore, learn along with me, or reach out if you’d like to colla
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
 
 ###
 ---
