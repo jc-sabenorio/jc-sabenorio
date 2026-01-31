@@ -9,6 +9,7 @@ I’m a software engineer driven by curiosity and a passion for creating meaning
 I grow by taking initiative, applying what I learn through hands-on projects, sharing perspectives, and reflecting on each step of the journey. Every repository here represents a learning experience and a step forward in my professional growth.
 
 Feel free to explore, learn along with me, or reach out if you’d like to collaborate 🚀
+
 ---
 ### 💻 Tech Stack
 <div align="left">
